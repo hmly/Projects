@@ -1,0 +1,4 @@
+# Intellij settings and configs
+.idea
+.out
+*.iml
