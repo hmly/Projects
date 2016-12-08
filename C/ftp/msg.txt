@@ -1,0 +1,9 @@
+client
+client.c
+ftpclient.c
+ftpserver.c
+Makefile
+msg.txt
+server
+server2.c
+server.c
